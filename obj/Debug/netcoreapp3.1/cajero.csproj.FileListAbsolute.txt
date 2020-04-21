@@ -1,0 +1,11 @@
+C:\Users\Edgar\Documents\Tecnologias emergentes\cajero\bin\Debug\netcoreapp3.1\cajero.exe
+C:\Users\Edgar\Documents\Tecnologias emergentes\cajero\bin\Debug\netcoreapp3.1\cajero.deps.json
+C:\Users\Edgar\Documents\Tecnologias emergentes\cajero\bin\Debug\netcoreapp3.1\cajero.runtimeconfig.json
+C:\Users\Edgar\Documents\Tecnologias emergentes\cajero\bin\Debug\netcoreapp3.1\cajero.runtimeconfig.dev.json
+C:\Users\Edgar\Documents\Tecnologias emergentes\cajero\bin\Debug\netcoreapp3.1\cajero.dll
+C:\Users\Edgar\Documents\Tecnologias emergentes\cajero\bin\Debug\netcoreapp3.1\cajero.pdb
+C:\Users\Edgar\Documents\Tecnologias emergentes\cajero\obj\Debug\netcoreapp3.1\cajero.csprojAssemblyReference.cache
+C:\Users\Edgar\Documents\Tecnologias emergentes\cajero\obj\Debug\netcoreapp3.1\cajero.AssemblyInfoInputs.cache
+C:\Users\Edgar\Documents\Tecnologias emergentes\cajero\obj\Debug\netcoreapp3.1\cajero.AssemblyInfo.cs
+C:\Users\Edgar\Documents\Tecnologias emergentes\cajero\obj\Debug\netcoreapp3.1\cajero.dll
+C:\Users\Edgar\Documents\Tecnologias emergentes\cajero\obj\Debug\netcoreapp3.1\cajero.pdb
